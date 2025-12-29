@@ -1,0 +1,43 @@
+Hello and welcome to NO TIME, a lost in days studio experience
+To begin the tutorial step forward into the light. Otherwise step back.
+(Press to move)
+Crouch and jump like this >>
+Pick up the uranium next to the car.
+(Press to pick up)
+Put the uranium on top of the reaction chamber. Hold <color=#FFBF00> [!IN$_CtlPQuestlog!IN$] </color> to access your inventory wheel or use the numbers <color=#FFBF00>[1] to [7]</color> take out an item quickly. Chose the hand symbol to have free hands! Use the <color=#FFBF00>Mouse Wheel</color> to hold your item farther or closer to you.
+To open your notepad...
+Press: 
+Read the <color=#FFBF00>"useful notes"</color>. They should in front of the car. On the table.
+After reading the notes get into the car by using the <color=#FFBF00>steering wheel</color>. Press <color=#FFBF00> [!IN$_CtlPUse!IN$] </color> to interact with objects!
+<<<REMEMBER ONLY IF YOU ARE IN THE RIGHT TIME WILL THE QUEST PROGRESS, THE CURRENT TIME BELOW WILL THEN APPEAR BLUE.
+--Please preserve the  <color=#FFBF00>" and the "</color> tags as is, since they get used by the code to color the text in the middle--
+SAVE
+LOAD
+WATCH THE REACTOR TEMPERATURE!
+Put the uranium on top of the reaction chamber. Interact with the reactor chamber whilst holding the item.
+(Hold the questlog button in to cycle through your inventory if you need a free hand).
+>>NO PASSAGE<<<
+>>WALL OBSTACLE AHEAD<<
+>>BUILT AFTER 1983<<
+>>FREE ROAD BRO ;)<<
+Escape this building! An obstacle is blocking the exit in front of you!
+Hello, ah hello? Welcome, this is a recording of ...err me! Your butler in time! The voice from earlier! 
+I devised this course to lead you through the basics of temporal adventuring!
+Let us start with defending yourself on your adventures! 
+Hm... I forgot the training gun, back in 1972! Travel to that year and retrieve it from that little island behind you, between the two pine trees! 
+Jump to 1972, pick up the gun from between the two pines behind you! Then travel back and show the gun to me! The control panel to your right will give you additional reactor fuel cells!
+Hello, time venturer! You actually came in too early. You traveled to a point before I ever gave you any quest, I therefore have no context to our prior conversations!
+Good job time venturer! Look behind you, you will see the combat course, approach to begin!
+Alright! Let us begin with an easy set of enemies! Track and take them all down!
+Good! If you need to replenish your health, there are snacks next to the start area!
+You are a great fighter! Hmm one second I am getting a temporal proximity warning!
+Great, this should be all for the moment. I have a little surprise for you. Two experimental tools, next to me where you first encountered my hologram! 
+You will find I just opened a new gate, that will lead you into the main story! Stay a while if you want to play around a little longer with the tools or explore the area! Enjoy!
+To start the next round head back to the blue arrow!
+Alright let's continue!
+Take this sword! More enemies are coming! Control blocking and attack directions based on your view movement!
+An enemy time car is approaching! Hurry there is little time get to your car!
+You can attatch your gun to the front of the car! Those slots with the yellow black stripes! Hurry! Afterwards get in the car!
+Alright, quick! Get in the car!
+Here they come!
+Then travel back to me, to continue our training! You will find a control panel next to your right, which will spawn you an additional fuel cells for a time jump!
