@@ -63,3 +63,4 @@
 Вы можете удерживать <color=#FFBF00> [!IN$_CtlCVerticalUp!IN$] </color> для тяги вверх и <color=#FFBF00> [!IN$_CtlCVerticalDown!IN$] </color> для тяги вниз!
 Нажмите <color=#FFBF00> [!IN$_CtlPThirdPerson!IN$] </color> для вида от третьего лица!
 уже занято:
+Если вы посмотрите вверх, то сможете использовать диктофон для сохранения и загрузки игры.
