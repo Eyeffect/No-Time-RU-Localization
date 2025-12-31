@@ -18,7 +18,7 @@
 * Intro ✅
 * Npc ✅
 * Options ✅
-* Programs ❌
+* Programs ✅
 * Quests ✅
 * Radio ✅
 * Time ✅
