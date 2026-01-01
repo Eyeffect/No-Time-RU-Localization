@@ -35,7 +35,7 @@ print "nice isn't it?"
 wait 4
 clear
 
-print "Shall I reboot the PLC? Y/N"
+print "Shall I reboot the КПК? Y/N"
 
 yes = readline
 //readline ожидает ввода строки ввода
@@ -47,7 +47,7 @@ print "you said: "+yes
 if yes.lower == "y" then
   clear
   breakline
-  print "Ok Bye am restarting PLC..."
+  print "Ok Bye am restarting КПК..."
   wait 2
   reboot
 else

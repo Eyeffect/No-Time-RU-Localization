@@ -1,7 +1,7 @@
 //1#
 //GET AN EMPTY HVD!
 //2#
-//Insert it into the PLC!
+//Insert it into the КПК!
 //3#
 //Create a new file named "startup.eee"
 //4# inside it write this into the first line

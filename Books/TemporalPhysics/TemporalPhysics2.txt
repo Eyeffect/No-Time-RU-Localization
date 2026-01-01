@@ -1,4 +1,4 @@
-The PLC is made out of several important components!
+The КПК is made out of several important components!
 
 1. The main CRT display is your way of receiving the devices output!
 2. The compass tells you your direction on the horizontal plane!
