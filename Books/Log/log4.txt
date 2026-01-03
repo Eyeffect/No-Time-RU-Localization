@@ -1,11 +1,12 @@
-<ENTRY>
-MR. Crimson ordered to make the nuclear strike ready.
-Since Mr. Athor and his collegue have escaped, the safety of our endevour might be in danger.
+<ЗАПИСЬ>
+Г-н Кримсон приказал привести ядерный удар в готовность.
+После того, как Г-н Атор и его коллега сбежали, безопасность нашего предприятия может оказаться под угрозой.
 
-<ENTRY>
-The transport has been made ready.
-The Consul will attempt to convince Mr. Athor and Paul Clearman.
+<ЗАПИСЬ>
+Транспорт подготовлен.
+Консул попытается убедить Г-на Атора и Пола Клирмана.
 
-<ENTRY>
-Mr. Crimson repurposed the robot into an execution unit.
-<NEXT PAGE>
+<ЗАПИСЬ>
+Г-н Кримсон переоборудовал робота в единицу исполнения приговора.
+
+<СЛЕДУЮЩАЯ СТРАНИЦА>
