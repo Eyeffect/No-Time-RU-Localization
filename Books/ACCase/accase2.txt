@@ -1,12 +1,13 @@
-<DETECTIVE>
-Please continue.
+<ДЕТЕКТИВ>
+Пожалуйста, продолжайте.
 
-<EDWIN B. ATHOR>
-He. Jumped from the corner of my eye!
-A rush of fear grabbed me and I faded out of shock I guess.
-(pauses)
+<ЭДВИН Б. АТОР>
+Он. Заметил меня краем глаза!
+Меня охватил приступ страха и, кажется, я ушёл в отключку.
+(с паузами)
 
-Next morning I woke back in my bed.
+На следующее утро я проснулся уже в своей постели.
 
-<DETECTIVE>
-So it was just a dream then?
+<ДЕТЕКТИВ>
+
+Тогда, может, это просто был сон?
