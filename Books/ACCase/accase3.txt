@@ -1,11 +1,12 @@
-<EDWIN B. ATHOR>
-No others have also heard these sounds.
+<ЭДВИН Б. АТОР.>
+Никто больше этих звуков больше не слышал.
 
-<DETECTIVE>
-But it seems this was just a fever dream.
-After all you seem to be unharmed and you woke up in your bed.
-I would aid in consulting someone if this dream would repeat.
-Now I wish you a good evening.
-There is another case I got to work on.
-<END OF LOG>
+<ДЕТЕКТИВ>
+Кажется, это просто был плохо сон.
+Ведь после всего Вы не пострадали и проснулись в своей постели.
+Я бы посоветовал обратиться к специалисту, если сон повторится.
+Что ж, желаю доброго вечера.
+А у меня есть другая работа.
+<КОНЕЦ ОТЧЁТА>
+
  
