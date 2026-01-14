@@ -1,10 +1,11 @@
-<MR. FALLONE>
-(Stirs in order to get up and leave) I have two children and a wife, I need to go home, I cannot stay.
+<МИСТЕР ФАЛЛОНЕ>
+(Встает, чтобы уйти.) У меня двое детей и жена, мне нужно домой, я не могу остаться.
 
-<DETECTIVE>
-Oh, not so hasty Mr. Fallone. You haven’t  been in any relationship, as far as I know.
-I will of course make good what was wronged against you, in case you do have a family to take care of. You have my promise.
+<ДЕТЕКТИВ>
+О, не спешите, мистер Фаллоне. Насколько я знаю, у вас не было никаких отношений.
+Я, конечно, исправлю то, что было сделано не так, если у вас действительно есть семья, о которой нужно заботиться. Даю вам слово.
 
-<EXPOSITION>
-After a series of unsuccessful investigations, police inquiries ceased.
-Neither the full extent of, or the reason behind the murders were found out.
+<ЭКСПОЗИЦИЯ>
+После серии безуспешных расследований полиция прекратила поиски.
+
+Не удалось установить ни все обстоятельства убийств, ни их причины.
